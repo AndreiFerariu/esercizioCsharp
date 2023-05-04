@@ -1,0 +1,8 @@
+C:\Users\arion\OneDrive\Desktop\address\address\bin\Debug\address.exe.config
+C:\Users\arion\OneDrive\Desktop\address\address\bin\Debug\address.exe
+C:\Users\arion\OneDrive\Desktop\address\address\bin\Debug\address.pdb
+C:\Users\arion\OneDrive\Desktop\address\address\obj\Debug\address.csproj.AssemblyReference.cache
+C:\Users\arion\OneDrive\Desktop\address\address\obj\Debug\address.csproj.SuggestedBindingRedirects.cache
+C:\Users\arion\OneDrive\Desktop\address\address\obj\Debug\address.csproj.CoreCompileInputs.cache
+C:\Users\arion\OneDrive\Desktop\address\address\obj\Debug\address.exe
+C:\Users\arion\OneDrive\Desktop\address\address\obj\Debug\address.pdb
